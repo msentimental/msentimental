@@ -1,6 +1,6 @@
-## Website design and Discord bot developer
+## fullstack developer
 
-- Working on Strike:
+- Strike (discord bot):
   - `https://strike-bot.pages.dev`
 
 **Portfolio: https://msentimental.pages.dev**
