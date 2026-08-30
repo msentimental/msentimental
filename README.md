@@ -11,6 +11,7 @@
 ## Languages
 
 ![My Skills](https://simpleicons.dev/icons?icons=javascript,python&theme=light)
+
 **Currently learning Java**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
