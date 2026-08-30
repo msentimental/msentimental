@@ -1,7 +1,6 @@
 # Mostly a web developer
 
 
-
 ## Projects
 
 ### Strike (Discord bot):
