@@ -1,12 +1,12 @@
 # Mostly a web developer
-
+\n
 
 ## Projects
 
 ### Strike (Discord bot):
   - https://strike-bot.pages.dev
 ### Kpak projects 
-  - (a [local] proxy and chatting website)
+  - A [local] proxy and chatting website
 
 ## Languages
 
