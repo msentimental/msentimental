@@ -1,6 +1,7 @@
 # Mostly a web developer
 
 ## Projects
+---
 ### Strike (Discord bot):
   - https://strike-bot.pages.dev
 ### Kpak projects 
