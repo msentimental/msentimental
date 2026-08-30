@@ -6,6 +6,7 @@
 - Kpak projects (a [local] proxy and chatting website)
 
 **Languages:**
+
 ![My Skills](https://simpleicons.dev/icons?icons=javascript,python&theme=light)
 - Currently learning Java
 
