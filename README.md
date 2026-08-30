@@ -1,19 +1,20 @@
-## Mostly a web developer
+# Mostly a web developer
 
-**Projects:**
-- Strike (Discord bot):
+## Projects
+### Strike (Discord bot):
   - https://strike-bot.pages.dev
-- Kpak projects (a [local] proxy and chatting website)
+### Kpak projects 
+  - (a [local] proxy and chatting website)
 
-**Languages:**
+## Languages
 
 ![My Skills](https://simpleicons.dev/icons?icons=javascript,python&theme=light)
-- Currently learning Java
+**Currently learning Java**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
 
-**Contact:** 
-- Discord [msentimental]
+## Contact
+**Discord username:** msentimental
 
 A lot of my repositories are random stuff I made when I had no idea what I was doing ;). Please don't view those, they're dreadful.
 
