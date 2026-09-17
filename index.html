@@ -118,14 +118,14 @@
 </div> 
     <div class="noise-overlay"></div>
 
-<header id="main-header" class="sticky top-0 left-0 w-full z-[100] py-4 transition-all duration-500">
+<header id="main-header" class="sticky top-0 left-0 w-full z-[100] py-4 transition-all duration-500 !bg-[#F7F6F9]">
     <div id="header-container" class="w-full max-w-6xl mx-auto flex items-center justify-between px-6 md:px-12 lg:px-24 transition-all duration-500">
         
         <a id="logo-link" class="text-sm font-bold tracking-tighter cursor-pointer">MSentimental</a>
         
         <nav class="hidden md:flex items-center gap-6">
-            <a id="nav-work-link" class="cursor-pointer text-xs font-medium text-muted hover:text-foreground transition-colors">Work</a>
-            <a id="nav-experience-link" class="cursor-pointer text-xs font-medium text-muted hover:text-foreground transition-colors">Experience</a>
+            <a id="nav-work-link" class="cursor-pointer text-xs font-medium text-muted hover:text-foreground transition-colors px-2 py-1 rounded-full hover:bg-[#f2f2f2]">Work</a>
+            <a id="nav-experience-link" class="cursor-pointer text-xs font-medium text-muted hover:text-foreground transition-colors px-2 py-1 rounded-full hover:bg-[#f2f2f2]">Experience</a>
         </nav>
 
         <div class="flex items-center gap-3">
@@ -138,9 +138,9 @@
             </a>
         </div>
 
-        <div id="mobile-menu" class="absolute mt-40 right-6 md:right-12 w-44 bg-white border border-border rounded-xl p-1.5 z-[200] origin-top-right" style="translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;">
+        <div id="mobile-menu" class="absolute mt-40 right-6 md:right-12 w-44 !bg-[#F7F6F9] border border-border rounded-xl p-1.5 z-[200] origin-top-right hidden" style="translate: none; rotate: none; scale: none; transform: translate(0px, -10px) scale(0.95, 0.95); opacity: 0;">
             <div class="relative flex flex-col gap-0.5">
-                <div id="menu-highlight" class="absolute left-0 right-0 h-8 bg-neutral-100 rounded-md transition-all duration-300 ease-out opacity-0 pointer-events-none z-0" style="opacity: 0; top: 0px;"></div>
+                <div id="menu-highlight" class="absolute left-0 right-0 h-8 bg-neutral-200 rounded-md transition-all duration-300 ease-out opacity-0 pointer-events-none z-0" style="opacity: 0; top: 0px;"></div>
                 
                 <button id="mob-nav-home" class="mobile-nav-item relative z-10 flex items-center px-3 py-2 text-[11px] font-bold text-muted hover:text-foreground transition-colors text-left w-full">
                     Home
@@ -213,7 +213,7 @@
     
     <div class="flex flex-col gap-1 mb-2">
         <div class="text-2xl md:text-3xl font-medium tracking-tighter text-foreground flex items-center gap-2">
-            <span class="text-muted/70">A Developer</span>
+            <span class="text-foreground">A Developer</span>
             
             <div class="relative h-[1.2em] overflow-hidden w-[160px] md:w-[200px]">
                 <div id="word-scroller" class="absolute top-0 left-0 flex flex-col w-full text-foreground">
@@ -232,7 +232,7 @@
 </section>
 
 <section class="space-y-8 fade-up">
-    <div class="grid grid-cols-1 sm:grid-cols-3 rounded-2xl border border-border bg-white overflow-hidden shadow-sm">
+    <div class="grid grid-cols-1 sm:grid-cols-3 rounded-2xl border border-border overflow-hidden shadow-sm">
 
         <div class="p-6 flex flex-col justify-between">
             <iconify-icon icon="lucide:bot" class="text-lg text-muted transform-none" style="transform: none !important;"></iconify-icon>
@@ -253,7 +253,7 @@
         <div class="p-6 flex flex-col justify-between border-t sm:border-t-0 sm:border-l border-border">
             <iconify-icon icon="lucide:git-commit" class="text-lg text-muted transition-colors"></iconify-icon>
             <div class="mt-4">
-                <p class="text-2xl font-semibold text-foreground">4000+</p>
+                <p class="text-2xl font-semibold text-foreground">4500+</p>
                 <p class="text-xs text-muted mt-1">Github Commits</p>
             </div>
         </div>
@@ -287,7 +287,7 @@
                                 </p>
                             </div>
                             <div class="shrink-0 flex items-center justify-center size-8 rounded-full border border-border text-muted group-hover:bg-black group-hover:text-white group-hover:border-black transition-all">
-                                <iconify-icon icon="lucide:arrow-up-right" class="text-sm grayscale opacity-70"></iconify-icon>
+                                <iconify-icon icon="lucide:arrow-up-right" class="text-sm transition-opacity transition-grayscale duration-[350ms] grayscale opacity-70"></iconify-icon>
                             </div>
                         </div>
                     </article>
@@ -320,20 +320,20 @@
                 <h3 class="text-sm font-semibold tracking-tight text-foreground">Technologies</h3>
                 
                 <div class="flex flex-wrap gap-2">
-                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default">
-                        <iconify-icon icon="logos:javascript" class="text-sm grayscale opacity-70"></iconify-icon> JavaScript
+                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default duration-[350ms]">
+                        <iconify-icon icon="logos:javascript" class="text-sm transition-opacity transition-grayscale duration-[350ms] grayscale opacity-70"></iconify-icon> JavaScript
                     </div>
-                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default">
-                        <iconify-icon icon="logos:nodejs-icon" class="text-sm grayscale opacity-70"></iconify-icon> Node.js
+                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default duration-[350ms]">
+                        <iconify-icon icon="logos:nodejs-icon" class="text-sm transition-opacity transition-grayscale duration-[350ms] grayscale opacity-70"></iconify-icon> Node.js
                     </div>
-                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default">
-                        <iconify-icon icon="logos:tailwindcss-icon" class="text-sm grayscale opacity-70"></iconify-icon> Tailwind CSS
+                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default duration-[350ms]">
+                        <iconify-icon icon="logos:tailwindcss-icon" class="text-sm transition-opacity transition-grayscale duration-[350ms] grayscale opacity-70"></iconify-icon> Tailwind CSS
                     </div>
-                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default">
-                        <iconify-icon icon="logos:html-5" class="text-sm grayscale opacity-70"></iconify-icon> HTML & CSS
+                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default duration-[350ms]">
+                        <iconify-icon icon="logos:html-5" class="text-sm transition-opacity transition-grayscale duration-[350ms] grayscale opacity-70"></iconify-icon> HTML & CSS
                     </div>
-                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default">
-                        <iconify-icon icon="simple-icons:googlegemini" class="text-sm opacity-70"></iconify-icon> Gemini AI
+                    <div class="flex items-center gap-2 px-3 py-1.5 rounded-md border border-border bg-white text-xs font-medium text-neutral-600 shadow-sm hover:text-black transition-colors cursor-default duration-[350ms]">
+                        <iconify-icon icon="simple-icons:python" class="text-sm opacity-70"></iconify-icon> Python
                     </div>
                 </div>
             </section>
