@@ -20,7 +20,9 @@
 
 ## Contact
 **Discord username:** msentimental
-**Email:** ![lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
+
+**Email:** [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
+
 
 A lot of my repositories are not actively maintained but are still present for historical purposes.
 
