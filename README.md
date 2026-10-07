@@ -1,4 +1,4 @@
-# Fullstack Developer
+# Fullstack Developer\n
 ## Projects
 
 ### Strike (Discord bot):
