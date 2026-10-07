@@ -1,6 +1,5 @@
 # Fullstack Developer
 
-
 ## Projects
 
 ### Strike (Discord bot):
