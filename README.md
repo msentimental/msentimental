@@ -21,7 +21,8 @@
 ## Contact
 **Discord username:** msentimental
 
-A lot of my repositories are random stuff I made when I had no idea what I was doing ;). Please don't view those, they're dreadful.
+A lot of my repositories are not actively maintained but are still present for historical purposes.
+
 **Active Repositories:** strike-bot-main, KgControl, msentimental, ui, strike, and some other misc
 
 ![](https://komarev.com/ghpvc/?username=msentimental&color=blue)
