@@ -5,8 +5,10 @@
 
 ### Strike (Discord bot):
   - https://strike-bot.pages.dev
-### Kpak projects 
-  - [Local] proxy and messaging website
+### Other projects 
+  - local https proxy and messaging website
+  - UI/UX frontend design
+  - Content distribution services, totp & authentication security
 
 ## Languages
 
