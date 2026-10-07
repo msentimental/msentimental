@@ -2,12 +2,13 @@
 
 ## Projects
 
-### Strike (Discord bot):
+### Strike (Discord Bot):
   - https://strike-bot.pages.dev
-### Other projects 
-  - local https proxy and messaging website
+### Other Projects 
+  - Local HTTPS proxy and messaging website
   - UI/UX frontend design
-  - Content distribution services, totp & authentication security
+  - Content distribution services, TOTP & authentication security
+  - My # one priority is security and user experience ~
 
 ## Languages
 
@@ -19,6 +20,7 @@
 
 ## Contact
 **Discord username:** msentimental
+**Email:** ![lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
 
 A lot of my repositories are not actively maintained but are still present for historical purposes.
 
