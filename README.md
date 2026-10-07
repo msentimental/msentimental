@@ -1,4 +1,4 @@
-# Mostly a web developer
+# Fullstack Developer
 
 
 ## Projects
