@@ -10,7 +10,7 @@
   - UI/UX frontend design work
   - Content distribution services, TOTP & authentication security
   - Cryptography
-  - Number one priority is user security and user experience ~
+  - When I'm making things, my priority is to guarantee user security and UX
 
 ## I use...
 
