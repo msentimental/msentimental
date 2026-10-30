@@ -1,14 +1,16 @@
-# Fullstack Developer
+# 🥀 Fullstack Developer
 
 ## Projects
 
-### Strike (Discord Bot):
+### Strike:
   - https://strike-bot.pages.dev
-### Other Projects 
+### Kpak:
   - Local HTTPS proxy and messaging website
-  - UI/UX frontend design
+### Other Projects and Interests:
+  - UI/UX frontend design work
   - Content distribution services, TOTP & authentication security
-  - My number one priority is security and user experience ~
+  - Cryptography
+  - Number one priority is user security and user experience ~
 
 ## I use...
 
