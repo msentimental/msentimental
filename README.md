@@ -16,8 +16,6 @@
 
 **Right now, I'm trying to learn Java**
 
-![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
-
 ## Contact
 **Discord username:** msentimental
 
@@ -27,5 +25,7 @@
 A lot of my repositories are not actively maintained but are still present for historical purposes.
 
 **Active Repositories:** strike-bot-main, KgControl, msentimental, ui, strike, and some other misc
+
+![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=msentimental&color=blue)
