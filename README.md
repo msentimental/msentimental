@@ -8,13 +8,13 @@
   - Local HTTPS proxy and messaging website
   - UI/UX frontend design
   - Content distribution services, TOTP & authentication security
-  - My # one priority is security and user experience ~
+  - My number one priority is security and user experience ~
 
-## Languages
+## I use...
 
-![My Skills](https://simpleicons.dev/icons?icons=javascript,python&theme=light)
+![My Skills](https://simpleicons.dev/icons?icons=html5,css,javascript,python,nodedotjs,cloudflarepages,cloudflareworkers,discorddotjs&theme=light)
 
-**Currently learning Java**
+**Right now, I'm trying to learn Java**
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
 
