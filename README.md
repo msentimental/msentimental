@@ -11,12 +11,11 @@
   - Content distribution services, TOTP & authentication security
   - Cryptography
   - When I'm making things, my priority is to guarantee user security and UX
+  - Trying to learn Java rn
 
 ## I use...
 
 ![My Skills](https://simpleicons.dev/icons?icons=html5,css,javascript,python,nodedotjs,cloudflarepages,cloudflareworkers,discorddotjs&theme=light)
-
-**Right now, I'm trying to learn Java**
 
 ## Contact
 **Discord username:** msentimental
