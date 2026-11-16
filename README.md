@@ -31,7 +31,9 @@
 <br>
 <strong>Email:</strong> [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
 <br>
+<br>
 A lot of my repositories are old and not actively maintained but still present for historical purposes.
+<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
 
