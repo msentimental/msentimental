@@ -1,6 +1,6 @@
 <h1>Fullstack Developer 🥀</h1>
 
-<h3>My Projects:</h3>
+<h3>My Projects</h3>
 
 <strong>Strike:</strong>
 <br>
@@ -27,7 +27,9 @@
 ![My Skills](https://simpleicons.dev/icons?icons=html5,css,javascript,python,nodedotjs,cloudflarepages,cloudflareworkers,discorddotjs&theme=light)
 
 <h3>Contact</h3>
+<br>
 **Discord username:** msentimental
+<br>
 **Email:** [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
 
 A lot of my repositories are old and not actively maintained but still present for historical purposes.
