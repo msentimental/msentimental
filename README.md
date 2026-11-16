@@ -1,31 +1,27 @@
 <h1>Fullstack Developer 🥀</h1>
 
-<h2>Projects</h2>
+<h3>My Projects:</h3>
 
-### Strike:
+**Strike:**
   - https://strike-bot.pages.dev
-### Kpak:
+**Kpak:**
   - Local HTTPS proxy and messaging website
-### Other Projects and Interests:
+**Other Projects and Interests:**
   - UI/UX frontend design work
   - Content distribution services, TOTP & authentication security
   - Cryptography
   - When I'm making things, my priority is to guarantee user security and UX
   - Trying to learn Java rn
 
-## I use...
+<h3>I use...</h3>
 
 ![My Skills](https://simpleicons.dev/icons?icons=html5,css,javascript,python,nodedotjs,cloudflarepages,cloudflareworkers,discorddotjs&theme=light)
 
-## Contact
+<h3>Contact</h3>
 **Discord username:** msentimental
-
 **Email:** [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
 
-
-A lot of my repositories are not actively maintained but are still present for historical purposes.
-
-**Active Repositories:** strike-bot-main, KgControl, msentimental, ui, strike, and some other misc
+A lot of my repositories are old and not actively maintained but still present for historical purposes.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
 
