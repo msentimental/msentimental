@@ -5,14 +5,14 @@
 <strong>Strike:</strong>
   - https://strike-bot.pages.dev
 <br>
-<strong>Kpak:</strong>
+<strong>Kpak:</strong><br>
   - Local HTTPS proxy and messaging website
 <br>
-<strong>Other Projects and Interests:</strong>
-  - UI/UX frontend design work
-  - Content distribution services, TOTP & authentication security
-  - Cryptography
-  - When I'm making things, my priority is to guarantee user security and UX
+<strong>Other Projects and Interests:</strong><br>
+  - UI/UX frontend design work<br>
+  - Content distribution services, TOTP & authentication security<br>
+  - Cryptography<br>
+  - When I'm making things, my priority is to guarantee user security and UX<br>
   - Trying to learn Java rn
 
 <h3>I use...</h3>
