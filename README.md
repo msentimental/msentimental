@@ -3,17 +3,23 @@
 <h3>My Projects:</h3>
 
 <strong>Strike:</strong>
-  - https://strike-bot.pages.dev
+  • https://strike-bot.pages.dev
 <br>
-<strong>Kpak:</strong><br>
-  - Local HTTPS proxy and messaging website
+<strong>Kpak:</strong>
 <br>
-<strong>Other Projects and Interests:</strong><br>
-  - UI/UX frontend design work<br>
-  - Content distribution services, TOTP & authentication security<br>
-  - Cryptography<br>
-  - When I'm making things, my priority is to guarantee user security and UX<br>
-  - Trying to learn Java rn
+  • Local HTTPS proxy and messaging website
+<br>
+<strong>Other Projects and Interests:</strong>
+<br>
+  • UI/UX frontend design work
+<br>
+  • Content distribution services, TOTP & authentication security
+<br>
+  • Cryptography
+<br>
+  • When I'm making things, my priority is to guarantee user security and UX
+<br>
+  • Trying to learn Java rn
 
 <h3>I use...</h3>
 
