@@ -29,7 +29,7 @@
 <h3>Contact</h3>
 <strong>Discord username:</strong> msentimental
 <br>
-<strong>Email:</strong> [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
+<strong>Email:</strong> <a href="mailto:lijinhan2012@outlook.com">lijinhan2012@outlook.com</a>
 <br>
 <br>
 A lot of my repositories are old and not actively maintained but still present for historical purposes.
