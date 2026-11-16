@@ -3,9 +3,9 @@
 <h3>My Projects:</h3>
 
 **Strike:**
-  - https://strike-bot.pages.dev
+  - https://strike-bot.pages.dev<br>
 **Kpak:**
-  - Local HTTPS proxy and messaging website
+  - Local HTTPS proxy and messaging website<br>
 **Other Projects and Interests:**
   - UI/UX frontend design work
   - Content distribution services, TOTP & authentication security
