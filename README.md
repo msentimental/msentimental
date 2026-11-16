@@ -27,11 +27,10 @@
 ![My Skills](https://simpleicons.dev/icons?icons=html5,css,javascript,python,nodedotjs,cloudflarepages,cloudflareworkers,discorddotjs&theme=light)
 
 <h3>Contact</h3>
+<strong>Discord username:</strong> msentimental
 <br>
-**Discord username:** msentimental
+<strong>Email:</strong> [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
 <br>
-**Email:** [lijinhan2012@outlook.com](mailto:lijinhan2012@outlook.com)
-
 A lot of my repositories are old and not actively maintained but still present for historical purposes.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=msentimental&theme=dark)
