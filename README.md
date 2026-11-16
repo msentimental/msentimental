@@ -1,6 +1,6 @@
-# Fullstack Developer 🥀
+<h1>Fullstack Developer 🥀</h1>
 
-## Projects
+<h2>Projects</h2>
 
 ### Strike:
   - https://strike-bot.pages.dev
